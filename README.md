@@ -1,6 +1,5 @@
-# theo
-
-A new Flutter project.
+# TMS
+Transport Management Mobile App (EasyGo) For Booking Bus & Airline Tickets in Ghana
 
 ## Getting Started
 
